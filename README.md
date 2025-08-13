@@ -7,20 +7,33 @@
 [🥈BIT bit.com交易所（合约人数最多，有带单大佬），邀请码:NSXCMK](https://www.bitexch.io/zh-CN/signup?code=NSXCMK)    
 ------
 ## 👯 **常用矿池** ...
-[🥇鱼池F2POOL](https://www.f2pool.com)    
+[🥇鱼池F2POOL](https://www.f2pool.com)   
 [🥈蚁池ANTPOOL](https://www.antpool.com)    
 [🥇微比特VIABTC](https://www.viabtc.com)    
 [🥈币印POOLIN](https://www.poolin.one)    
-------
-## 😄 **大陆连接** ...
-------
-## 📫 **新手教程**...
+------  
+## 😄 **大陆中转** ...  
+🥇***鱼池F2POOL***  
+btc  stratum+tcp://s.haowa.xyz:10001  
+ltc  stratum+tcp://s.haowa.xyz:10002  
+etc  stratum+tcp://s.haowa.xyz:10003  
+🥇***蚁池ANTPOOL***  
+btc  stratum+tcp://s.haowa.xyz:11001  
+ltc  stratum+tcp://s.haowa.xyz:11002    
+🥇***微比特VIABTC***  
+btc  stratum+tcp://s.haowa.xyz:12001  
+ltc  stratum+tcp://s.haowa.xyz:12002  
+🥇***币印POOLIN***  
+btc  stratum+tcp://s.haowa.xyz:13001  
+ltc  stratum+tcp://s.haowa.xyz:13002  
 ------
 ## 🤔 **批量工具**...  
 [🥇BTC批量工具](https://url.cloverpool.com/btc-tools-download)    
 [🥇蚂蚁ANT工具](https://url.cloverpool.com/btc-tools-download)    
 [🥇阿瓦隆FMS工具](https://static.canaan.io/prod/u_file/2507/22/file/AvalonFMS3.3.1-1340.zip)    
-[🥇神马工具](https://aws-microbt-com-bucket.s3.us-west-2.amazonaws.com/1729849797620WhatsMinerTool-9.0.4.rar) 
+[🥇神马工具](https://aws-microbt-com-bucket.s3.us-west-2.amazonaws.com/1729849797620WhatsMinerTool-9.0.4.rar)   
+-------
+## 📫 **常见问题**...
 ------
 ## 💬 **联系我们** ...
 ------
