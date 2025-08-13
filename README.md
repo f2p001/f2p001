@@ -24,8 +24,8 @@ ltc  stratum+tcp://s.haowa.xyz:11002
 btc  stratum+tcp://s.haowa.xyz:12001  
 ltc  stratum+tcp://s.haowa.xyz:12002  
 🥇***币印POOLIN***  
-btc  stratum+tcp://s.haowa.xyz:13001  
-ltc  stratum+tcp://s.haowa.xyz:13002  
+btc  stratum+tcp://s.haowa.xyz:13011  
+ltc  stratum+tcp://s.haowa.xyz:13012  
 ------
 ## 🤔 **批量工具**...  
 [🥇BTC批量工具](https://url.cloverpool.com/btc-tools-download)    
