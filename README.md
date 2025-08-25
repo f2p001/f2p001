@@ -3,35 +3,29 @@
 ## 🌱 **交易所导航** ... 
 [🥇币安Binanc交易所---全球第一交易所](https://accounts.maxweb.mobi/zh-CN/register?ref=10973272)  
 [🥈芝麻开门Gate.io交易所---币种多](https://www.gatenode.uno/signup/UwIQUgw?ref_type=102)  
-[🥉欧易Okex交易所（自带web3钱包）大陆用户最爱](https://ouyix.link/ul/YbU25D?channelId=1835340)  
-[🥈BIT bit.com交易所 合约人数最多，有带单大佬](https://www.bitexch.io/zh-CN/signup?code=NSXCMK)    
+[🥉欧易Okex交易所--大陆用户最爱](https://ouyix.link/ul/YbU25D?channelId=1835340)  
+[🥈BIT bit.com交易所](https://www.bitexch.io/zh-CN/signup?code=NSXCMK)    
 ------
-## 👯 **常用矿池** ...
+## 👯 **常用矿池** ...  
+[🥇微比特VIABTC](https://www.viabtc.com/signup?refer=1372178)       
 [🥇鱼池F2POOL](https://www.f2pool.com)   
 [🥈蚁池ANTPOOL](https://www.antpool.com)    
-[🥇微比特VIABTC](https://www.viabtc.com)    
 [🥈币印POOLIN](https://www.poolin.one)    
 ------  
-## 😄 **大陆中转** ...  
-🥇***鱼池F2POOL***  
-btc  stratum+tcp://s.haowa.xyz:10001  
-ltc  stratum+tcp://s.haowa.xyz:10002  
-etc  stratum+tcp://s.haowa.xyz:10003  
-🥇***蚁池ANTPOOL***  
-btc  stratum+tcp://s.haowa.xyz:11001  
-ltc  stratum+tcp://s.haowa.xyz:11002    
-🥇***微比特VIABTC***  
-btc  stratum+tcp://s.haowa.xyz:12001  
-ltc  stratum+tcp://s.haowa.xyz:12002  
-🥇***币印POOLIN***  
-btc  stratum+tcp://s.haowa.xyz:13011  
-ltc  stratum+tcp://s.haowa.xyz:13012  
+## 😄 **新手教程** ...    
+   
+ 
+
+https://github.com/user-attachments/assets/46b48000-cb54-4673-af2b-42c544390e0e
+
+
 ------
 ## 🤔 **批量工具**...  
 [🥇BTC批量工具](https://url.cloverpool.com/btc-tools-download)    
 [🥇蚂蚁ANT工具](https://url.cloverpool.com/btc-tools-download)    
 [🥇阿瓦隆FMS工具](https://static.canaan.io/prod/u_file/2507/22/file/AvalonFMS3.3.1-1340.zip)    
 [🥇神马工具](https://aws-microbt-com-bucket.s3.us-west-2.amazonaws.com/1729849797620WhatsMinerTool-9.0.4.rar)   
+[🥇神马油冷工具](https://drive.google.com/file/d/1GvVKyF4EUxyIBfpXWp3sT3AE0yT4IJoA/view?pli=1)   
 -------
 ## 📫 **常见问题**...
 ------
