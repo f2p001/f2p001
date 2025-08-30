@@ -1,7 +1,7 @@
 # 挖矿一站式  矿池-交易所-工具-教程 👋
 ======
 ## 🌱 **交易所导航** ... 
-[🥇币安Binanc交易所---全球第一交易所](https://accounts.maxweb.mobi/zh-CN/register?ref=10973272)  
+[🥇币安Binanc交易所---全球第一交易所](https://accounts.maxweb.academy/zh-CN/register?ref=10973272)  
 [🥈芝麻开门Gate.io交易所---币种多](https://www.gatenode.uno/signup/UwIQUgw?ref_type=102)  
 [🥉欧易Okex交易所--大陆用户最爱](https://ouyix.link/ul/YbU25D?channelId=1835340)  
 [🥈BIT bit.com交易所](https://www.bitexch.io/zh-CN/signup?code=NSXCMK)    
